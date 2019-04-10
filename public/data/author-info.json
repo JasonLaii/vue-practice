@@ -1,0 +1,66 @@
+{
+  "jsData": [
+    {
+      "id": 1,
+      "tittle": "Vue 特性",
+      "content": "简洁/数据驱动/组件化/轻量/快速/模块友好/中文API",
+      "Lcontent": "HTML模板 + JSON 数据，在创建一个VUE实例，就这么简单；用解耦、可复用的组件来构造界面；无依赖，精确有效的。。。。。。"
+    },
+    {
+      "id": "2",
+      "tittle": "组件的[keep-alive]特性",
+      "content": "Vuejs 为其组件设计了一个[keep-alive]的特性",
+      "Lcontent": "Vuejs 为其组件设计了一个[keep-alive]的特性，。。。。。。。。。。。。。。。。。。"
+    },
+    {
+      "id": "3",
+      "tittle": "数据监听机制",
+      "content": "Object.defineProperty 这个 api, 为此属性设计了一个特殊的 getter/setter, 然后在 setter里",
+      "Lconteng": "Object.defineProperty 这个 api, 为此属性设计了一个特殊的 getter/setter, 然后在 setter里............................"
+    },
+    {
+      "id": "4",
+      "tittle": "数据监听机制",
+      "content": "Object.defineProperty 这个 api, 为此属性设计了一个特殊的 getter/setter, 然后在 setter里",
+      "Lconteng": "Object.defineProperty 这个 api, 为此属性设计了一个特殊的 getter/setter, 然后在 setter里............................"
+    },
+    {
+      "id": "5",
+      "tittle": "数据监听机制",
+      "content": "Object.defineProperty 这个 api, 为此属性设计了一个特殊的 getter/setter, 然后在 setter里",
+      "Lconteng": "Object.defineProperty 这个 api, 为此属性设计了一个特殊的 getter/setter, 然后在 setter里............................"
+    },
+    {
+      "id": "6",
+      "tittle": "数据监听机制",
+      "content": "Object.defineProperty 这个 api, 为此属性设计了一个特殊的 getter/setter, 然后在 setter里",
+      "Lconteng": "Object.defineProperty 这个 api, 为此属性设计了一个特殊的 getter/setter, 然后在 setter里............................"
+    },
+    {
+      "id": "7",
+      "tittle": "数据监听机制",
+      "content": "Object.defineProperty 这个 api, 为此属性设计了一个特殊的 getter/setter, 然后在 setter里",
+      "Lconteng": "Object.defineProperty 这个 api, 为此属性设计了一个特殊的 getter/setter, 然后在 setter里............................"
+    }
+  ],
+  "vueData": [
+    {
+      "id": 1,
+      "tittle": "123",
+      "content": "123132132132",
+      "Lcontent": "95123654788621651231564545615"
+    },
+    {
+      "id": 2,
+      "tittle": "321",
+      "content": "15915915911",
+      "Lcontent": " saklfjklsanvkxcnklgvjhdsifjawoefjlaksd"
+    },
+    {
+      "id": 3,
+      "tittle": "456",
+      "content": "12354566789",
+      "Lcontent": "23156fa1sd56f1sa6d5f1aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    }
+  ]
+}
